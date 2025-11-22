@@ -1,0 +1,101 @@
+promotion_id,promotion_name,discount_percentage,applicable_category,start_date,end_date
+PR01,Monsoon Deal 15,18,Electronics,2025-02-20,2025-03-02
+PR02,Clearance 95,50,Electronics,2025-11-01,2025-11-21
+PR03,Weekend Offer 76,5,Beauty,2024-11-02,2024-11-07
+PR04,Buy1Get1 30,40,Home,2024-10-31,2024-11-20
+PR05,Buy1Get1 92,35,Sports,2025-05-20,2025-05-30
+PR06,Flash Sale 76,5,Fashion,2025-11-10,2025-12-08
+PR07,Clearance 90,20,Beauty,2025-03-09,2025-03-16
+PR08,Buy1Get1 98,10,Fashion,2024-12-04,2024-12-19
+PR09,Weekend Offer 46,40,Fashion,2025-03-02,2025-03-30
+PR10,Festive Sale 94,35,Beauty,2024-12-20,2025-01-04
+PR11,Weekend Offer 71,50,Fashion,2025-08-30,2025-09-29
+PR12,Festival Discount 74,10,Grocery,2024-11-10,2024-12-04
+PR13,Buy1Get1 99,10,Fashion,2025-12-29,2026-01-08
+PR14,Weekend Offer 49,30,Fashion,2025-09-08,2025-10-07
+PR15,Festival Discount 21,20,Fashion,2025-02-02,2025-02-26
+PR16,Summer Promo 90,50,Sports,2024-11-23,2024-12-15
+PR17,Monsoon Deal 22,15,Home,2025-01-09,2024-12-30
+PR18,Member Special 35,35,Sports,2025-02-07,2025-03-03
+PR19,Festival Discount 99,15,Electronics,2025-12-12,2025-12-16
+PR20,Festival Discount 52,10,Fashion,2025-02-03,2025-02-24
+PR21,New Arrival 41,50,Grocery,2025-06-30,2025-07-15
+PR22,Monsoon Deal 59,18,Grocery,2024-12-28,2025-01-07
+PR23,New Arrival 72,18,Home,2025-11-04,2025-11-25
+PR24,Member Special 75,20,Beauty,2025-02-07,2025-02-14
+PR25,Diwali Offer 64,5,Electronics,2026-01-01,2026-01-07
+PR26,Clearance 81,50,Grocery,2025-05-22,2025-06-13
+PR27,Weekend Offer 50,40,Beauty,2025-06-14,2025-07-03
+PR28,Summer Promo 71,50,Electronics,2025-10-22,2025-10-28
+PR29,Monsoon Deal 69,50,Fashion,2025-04-10,2025-04-16
+PR30,Summer Promo 56,30,Grocery,2024-10-19,2024-11-14
+PR31,New Arrival 34,12,Home,2025-07-04,2025-07-10
+PR32,Monsoon Deal 39,35,Sports,2025-08-25,2025-09-03
+PR33,Clearance 48,35,Grocery,2025-11-20,2025-12-09
+PR34,Festive Sale 77,30,Fashion,2024-10-27,2024-11-02
+PR35,Festival Discount 40,5,Grocery,2025-02-18,2025-03-11
+PR36,Weekend Offer 11,30,Sports,2025-12-09,2025-12-14
+PR37,Diwali Offer 99,12,Grocery,2025-09-20,2025-10-08
+PR38,Diwali Offer 22,35,Fashion,2026-01-07,2025-12-18
+PR39,Member Special 28,15,Home,2025-10-18,2025-10-30
+PR40,Member Special 86,20,Sports,2025-05-30,2025-06-18
+PR41,Flash Sale 16,15,Grocery,2024-11-19,2024-12-02
+PR42,Festive Sale 76,15,Home,2025-08-15,2025-08-01
+PR43,Festive Sale 10,50,Sports,2024-11-17,2024-11-27
+PR44,Weekend Offer 5,10,Fashion,2025-07-08,2025-07-18
+PR45,Summer Promo 86,15,Beauty,2025-07-21,2025-07-28
+PR46,New Arrival 74,30,Home,2025-02-19,2025-03-19
+PR47,Flash Sale 53,10,Grocery,2024-12-06,2024-12-30
+PR48,Member Special 46,25,Beauty,2025-06-14,2025-07-14
+PR49,New Arrival 7,50,Sports,2025-09-13,2025-09-19
+PR50,Festive Sale 52,20,Sports,2025-12-01,2025-12-31
+PR51,Weekend Offer 32,15,Grocery,2025-07-19,2025-08-05
+PR52,Clearance 55,18,Grocery,2025-06-11,2025-05-29
+PR53,Weekend Offer 57,10,Home,2024-11-12,2024-11-05
+PR54,Diwali Offer 2,15,Electronics,2025-01-11,2025-01-27
+PR55,Flash Sale 62,25,Grocery,2024-11-17,2024-11-25
+PR56,Member Special 1,18,Beauty,2025-11-23,2025-12-21
+PR57,Flash Sale 37,35,Beauty,2025-09-21,2025-10-16
+PR58,Flash Sale 20,18,Grocery,2025-02-06,2025-02-10
+PR59,Year End Sale 95,5,Home,2025-11-04,2025-11-17
+PR60,Festive Sale 7,30,Home,2025-07-02,2025-08-01
+PR61,Diwali Offer 21,35,Electronics,2024-11-28,2024-12-28
+PR62,Clearance 9,10,Home,2025-09-28,2025-10-28
+PR63,Buy1Get1 52,40,Electronics,2025-02-21,2025-03-14
+PR64,Year End Sale 6,10,Home,2025-05-20,2025-06-13
+PR65,Year End Sale 73,20,Home,2025-02-28,2025-03-09
+PR66,Monsoon Deal 92,15,Fashion,2025-03-02,2025-03-17
+PR67,Clearance 86,18,Sports,2025-06-09,2025-06-22
+PR68,Weekend Offer 2,40,Beauty,2025-08-02,2025-08-08
+PR69,Weekend Offer 69,35,Grocery,2025-03-02,2025-03-09
+PR70,Festival Discount 9,20,Grocery,2025-03-12,2025-03-20
+PR71,Flash Sale 70,18,Sports,2025-08-27,2025-08-08
+PR72,Monsoon Deal 68,50,Electronics,2025-12-10,2025-12-30
+PR73,Summer Promo 85,12,Electronics,2025-03-02,2025-03-08
+PR74,Weekend Offer 96,12,Home,2025-03-06,2025-03-18
+PR75,Year End Sale 27,20,Sports,2025-01-30,2025-02-23
+PR76,Monsoon Deal 34,30,Home,2025-02-23,2025-03-25
+PR77,Festive Sale 12,25,Sports,2025-12-16,2025-12-27
+PR78,Festive Sale 1,12,Fashion,2025-09-09,2025-09-20
+PR79,Clearance 95,35,Beauty,2025-10-14,2025-10-30
+PR80,Diwali Offer 2,10,Electronics,2026-01-13,2026-02-07
+PR81,Clearance 70,20,Electronics,2025-08-12,2025-09-01
+PR82,Clearance 56,5,Grocery,2025-03-24,2025-04-07
+PR83,Festive Sale 46,50,Grocery,2025-02-22,2025-03-18
+PR84,Weekend Offer 46,25,Home,2025-08-31,2025-09-26
+PR85,Clearance 31,12,Grocery,2026-01-12,2026-01-28
+PR86,Festive Sale 23,20,Sports,2025-11-22,2025-12-08
+PR87,Monsoon Deal 95,18,Grocery,2025-01-07,2025-02-04
+PR88,New Arrival 14,5,Beauty,2025-12-31,2026-01-18
+PR89,Buy1Get1 26,20,Beauty,2025-03-23,2025-04-21
+PR90,Buy1Get1 29,50,Electronics,2025-01-24,2025-01-18
+PR91,Festival Discount 36,18,Electronics,2025-04-15,2025-05-08
+PR92,Diwali Offer 52,35,Sports,2025-04-05,2025-04-08
+PR93,Weekend Offer 34,40,Grocery,2025-03-02,2025-03-06
+PR94,Weekend Offer 77,20,Beauty,2025-10-26,2025-11-23
+PR95,Festival Discount 56,35,Home,2024-12-16,2024-12-31
+PR96,Year End Sale 25,5,Fashion,2025-10-15,2025-10-31
+PR97,Festive Sale 67,50,Home,2025-10-21,2025-11-16
+PR98,New Arrival 86,20,Grocery,2025-05-26,2025-05-31
+PR99,Monsoon Deal 43,20,Home,2025-09-22,2025-10-22
+PR100,Weekend Offer 93,35,Fashion,2025-03-25,2025-04-18

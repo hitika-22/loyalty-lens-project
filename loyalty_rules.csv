@@ -1,0 +1,6 @@
+rule_id,rule_name,points_per_unit_spend,min_spend_threshold,bonus_points,is_active
+R01,Standard Earning,1.0,0,0,Y
+R02,Silver Boost,1.25,1000,20,Y
+R03,Gold High Roller,1.5,3000,50,Y
+R04,Festival Bonus,2.0,500,100,N
+R05,Premium Elite Bonus,2.5,7000,200,Y
